@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NoteAppMVI</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title">Title</string>
+    <string name="notes">Notes</string>
+    <string name="favorites">Favorites</string>
+    <string name="write_your_note">Write your note</string>
+    <string name="note_app_mvi">NoteAppMVI</string>
+</resources>
